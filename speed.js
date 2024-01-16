@@ -17,3 +17,4 @@ function speedDetector(speed){
     display.innerText="Your limit is ${limit} and demerit: ${demrit}"
 }
 console.log(speedDetector(150))
+

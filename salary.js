@@ -9,7 +9,7 @@ function paye_calculate(salary) {
     }
     if (remaining_salary > 8,333) {
         remaining_salary = remaining_salary - 8333
-        total_tax = total_tax + 2083
+        total_tax = total_tax + 2084
     } else {
         total_tax = (25 * remaining_salary ) / 100
     }
